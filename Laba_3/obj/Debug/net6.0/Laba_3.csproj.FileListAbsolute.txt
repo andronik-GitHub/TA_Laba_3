@@ -1,0 +1,15 @@
+E:\CourseTwo\Теорія алгоритмів\TA_Laba_3\Laba_3\bin\Debug\net6.0\Laba_3.exe
+E:\CourseTwo\Теорія алгоритмів\TA_Laba_3\Laba_3\bin\Debug\net6.0\Laba_3.deps.json
+E:\CourseTwo\Теорія алгоритмів\TA_Laba_3\Laba_3\bin\Debug\net6.0\Laba_3.runtimeconfig.json
+E:\CourseTwo\Теорія алгоритмів\TA_Laba_3\Laba_3\bin\Debug\net6.0\Laba_3.dll
+E:\CourseTwo\Теорія алгоритмів\TA_Laba_3\Laba_3\bin\Debug\net6.0\Laba_3.pdb
+E:\CourseTwo\Теорія алгоритмів\TA_Laba_3\Laba_3\obj\Debug\net6.0\Laba_3.csproj.AssemblyReference.cache
+E:\CourseTwo\Теорія алгоритмів\TA_Laba_3\Laba_3\obj\Debug\net6.0\Laba_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\CourseTwo\Теорія алгоритмів\TA_Laba_3\Laba_3\obj\Debug\net6.0\Laba_3.AssemblyInfoInputs.cache
+E:\CourseTwo\Теорія алгоритмів\TA_Laba_3\Laba_3\obj\Debug\net6.0\Laba_3.AssemblyInfo.cs
+E:\CourseTwo\Теорія алгоритмів\TA_Laba_3\Laba_3\obj\Debug\net6.0\Laba_3.csproj.CoreCompileInputs.cache
+E:\CourseTwo\Теорія алгоритмів\TA_Laba_3\Laba_3\obj\Debug\net6.0\Laba_3.dll
+E:\CourseTwo\Теорія алгоритмів\TA_Laba_3\Laba_3\obj\Debug\net6.0\refint\Laba_3.dll
+E:\CourseTwo\Теорія алгоритмів\TA_Laba_3\Laba_3\obj\Debug\net6.0\Laba_3.pdb
+E:\CourseTwo\Теорія алгоритмів\TA_Laba_3\Laba_3\obj\Debug\net6.0\Laba_3.genruntimeconfig.cache
+E:\CourseTwo\Теорія алгоритмів\TA_Laba_3\Laba_3\obj\Debug\net6.0\ref\Laba_3.dll
